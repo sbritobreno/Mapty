@@ -1,0 +1,2 @@
+# Mapty
+JavaScript coding project
