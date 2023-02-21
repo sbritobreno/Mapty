@@ -1,3 +1,3 @@
 # Mapty
-###JavaScript coding project
+### JavaScript coding project
 https://sbritobreno.github.io/Mapty/
